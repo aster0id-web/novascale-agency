@@ -1,11 +1,8 @@
-
-
 # NovaScale Studio — Agency Landing Page & Project Estimator
 
 **[View Live Demo →](https://novascale-agency-three.vercel.app/)**
 
-![NovaScale Studio Preview](<img width="1898" height="924" alt="image" src="https://github.com/user-attachments/assets/7216b4db-1d10-4a1c-a417-7f6b27f2c1f4" />
-)
+![NovaScale Studio Preview](https://github.com/user-attachments/assets/7216b4db-1d10-4a1c-a417-7f6b27f2c1f4)
 
 A high-converting agency landing page built with a crisp editorial design system, fast page loads, and interactive client intake tools.
 
@@ -32,3 +29,6 @@ git clone [https://github.com/aster0id-web/novascale-agency.git](https://github.
 cd novascale-agency
 npm install
 npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser.
